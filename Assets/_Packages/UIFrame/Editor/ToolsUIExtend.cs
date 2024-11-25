@@ -60,7 +60,7 @@
         private static GameObject CreatePrefabs(string path)
         {
             GameObject instance;
-            var prefabPath = "Assets/_Packages/ATools/ToolsUI/Prefabs/" + path + ".prefab";
+            var prefabPath = "Assets/_Packages/UIFrame/Prefabs/" + path + ".prefab";
             var prefab = AssetDatabase.LoadAssetAtPath<GameObject>(prefabPath);
             
             if (prefab == null) return null;

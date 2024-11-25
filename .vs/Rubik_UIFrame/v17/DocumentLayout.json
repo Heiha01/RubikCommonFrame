@@ -1,12 +1,198 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Unity_Project\\Rubik_UIFrame\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88636D73-5141-86FF-85C0-4391594C603F}|Assembly-CSharp.csproj|D:\\Unity_Project\\Rubik_UIFrame\\assets\\_packages\\uiframe\\runtime\\panelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88636D73-5141-86FF-85C0-4391594C603F}|Assembly-CSharp.csproj|solutionrelative:assets\\_packages\\uiframe\\runtime\\panelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88636D73-5141-86FF-85C0-4391594C603F}|Assembly-CSharp.csproj|d:\\unity_project\\rubik_uiframe\\assets\\_packages\\rubik_tools\\audiotool\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88636D73-5141-86FF-85C0-4391594C603F}|Assembly-CSharp.csproj|solutionrelative:assets\\_packages\\rubik_tools\\audiotool\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88636D73-5141-86FF-85C0-4391594C603F}|Assembly-CSharp.csproj|D:\\Unity_Project\\Rubik_UIFrame\\assets\\scripts\\runtime\\utilsmodule\\managerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88636D73-5141-86FF-85C0-4391594C603F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\runtime\\utilsmodule\\managerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88636D73-5141-86FF-85C0-4391594C603F}|Assembly-CSharp.csproj|D:\\Unity_Project\\Rubik_UIFrame\\assets\\scripts\\runtime\\utilsmodule\\strconstantscontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88636D73-5141-86FF-85C0-4391594C603F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\runtime\\utilsmodule\\strconstantscontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88636D73-5141-86FF-85C0-4391594C603F}|Assembly-CSharp.csproj|D:\\Unity_Project\\Rubik_UIFrame\\assets\\_packages\\rubik_tools\\stringhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88636D73-5141-86FF-85C0-4391594C603F}|Assembly-CSharp.csproj|solutionrelative:assets\\_packages\\rubik_tools\\stringhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88636D73-5141-86FF-85C0-4391594C603F}|Assembly-CSharp.csproj|D:\\Unity_Project\\Rubik_UIFrame\\assets\\_packages\\uiframe\\runtime\\buttonextend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88636D73-5141-86FF-85C0-4391594C603F}|Assembly-CSharp.csproj|solutionrelative:assets\\_packages\\uiframe\\runtime\\buttonextend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7769E7-E857-18BB-13B3-C2615401F311}|Assembly-CSharp-Editor.csproj|D:\\Unity_Project\\Rubik_UIFrame\\assets\\_packages\\uiframe\\editor\\generatescriptwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7769E7-E857-18BB-13B3-C2615401F311}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\_packages\\uiframe\\editor\\generatescriptwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7769E7-E857-18BB-13B3-C2615401F311}|Assembly-CSharp-Editor.csproj|D:\\Unity_Project\\Rubik_UIFrame\\assets\\_packages\\uiframe\\editor\\codeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7769E7-E857-18BB-13B3-C2615401F311}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\_packages\\uiframe\\editor\\codeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7769E7-E857-18BB-13B3-C2615401F311}|Assembly-CSharp-Editor.csproj|D:\\Unity_Project\\Rubik_UIFrame\\assets\\_packages\\uiframe\\editor\\componentextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7769E7-E857-18BB-13B3-C2615401F311}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\_packages\\uiframe\\editor\\componentextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7769E7-E857-18BB-13B3-C2615401F311}|Assembly-CSharp-Editor.csproj|D:\\Unity_Project\\Rubik_UIFrame\\assets\\_packages\\uiframe\\editor\\toolsuiextend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7769E7-E857-18BB-13B3-C2615401F311}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\_packages\\uiframe\\editor\\toolsuiextend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity_Project\\Rubik_UIFrame\\Assets\\Scripts\\RunTime\\StrConstantsContainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\RunTime\\StrConstantsContainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManagerBase.cs",
+              "DocumentMoniker": "D:\\Unity_Project\\Rubik_UIFrame\\Assets\\Scripts\\RunTime\\UtilsModule\\ManagerBase.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RunTime\\UtilsModule\\ManagerBase.cs",
+              "ToolTip": "D:\\Unity_Project\\Rubik_UIFrame\\Assets\\Scripts\\RunTime\\UtilsModule\\ManagerBase.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RunTime\\UtilsModule\\ManagerBase.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T10:17:22.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StrConstantsContainer.cs",
+              "DocumentMoniker": "D:\\Unity_Project\\Rubik_UIFrame\\Assets\\Scripts\\RunTime\\UtilsModule\\StrConstantsContainer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RunTime\\UtilsModule\\StrConstantsContainer.cs",
+              "ToolTip": "D:\\Unity_Project\\Rubik_UIFrame\\Assets\\Scripts\\RunTime\\UtilsModule\\StrConstantsContainer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RunTime\\UtilsModule\\StrConstantsContainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T10:16:13.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "D:\\Unity_Project\\Rubik_UIFrame\\Assets\\_Packages\\Rubik_Tools\\AudioTool\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_Packages\\Rubik_Tools\\AudioTool\\AudioManager.cs",
+              "ToolTip": "D:\\Unity_Project\\Rubik_UIFrame\\Assets\\_Packages\\Rubik_Tools\\AudioTool\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\_Packages\\Rubik_Tools\\AudioTool\\AudioManager.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAABIwCsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T10:14:28.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PanelBase.cs",
+              "DocumentMoniker": "D:\\Unity_Project\\Rubik_UIFrame\\Assets\\_Packages\\UIFrame\\Runtime\\PanelBase.cs",
+              "RelativeDocumentMoniker": "Assets\\_Packages\\UIFrame\\Runtime\\PanelBase.cs",
+              "ToolTip": "D:\\Unity_Project\\Rubik_UIFrame\\Assets\\_Packages\\UIFrame\\Runtime\\PanelBase.cs",
+              "RelativeToolTip": "Assets\\_Packages\\UIFrame\\Runtime\\PanelBase.cs",
+              "ViewState": "AgIAAKMAAAAAAAAAAAArwK0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T10:12:29.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StringHelper.cs",
+              "DocumentMoniker": "D:\\Unity_Project\\Rubik_UIFrame\\Assets\\_Packages\\Rubik_Tools\\StringHelper.cs",
+              "RelativeDocumentMoniker": "Assets\\_Packages\\Rubik_Tools\\StringHelper.cs",
+              "ToolTip": "D:\\Unity_Project\\Rubik_UIFrame\\Assets\\_Packages\\Rubik_Tools\\StringHelper.cs",
+              "RelativeToolTip": "Assets\\_Packages\\Rubik_Tools\\StringHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T10:11:59.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StrConstantsContainer.cs",
+              "DocumentMoniker": "D:\\Unity_Project\\Rubik_UIFrame\\Assets\\Scripts\\RunTime\\StrConstantsContainer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RunTime\\StrConstantsContainer.cs",
+              "ToolTip": "D:\\Unity_Project\\Rubik_UIFrame\\Assets\\Scripts\\RunTime\\StrConstantsContainer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RunTime\\StrConstantsContainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T10:02:39.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ButtonExtend.cs",
+              "DocumentMoniker": "D:\\Unity_Project\\Rubik_UIFrame\\Assets\\_Packages\\UIFrame\\Runtime\\ButtonExtend.cs",
+              "RelativeDocumentMoniker": "Assets\\_Packages\\UIFrame\\Runtime\\ButtonExtend.cs",
+              "ToolTip": "D:\\Unity_Project\\Rubik_UIFrame\\Assets\\_Packages\\UIFrame\\Runtime\\ButtonExtend.cs",
+              "RelativeToolTip": "Assets\\_Packages\\UIFrame\\Runtime\\ButtonExtend.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvwoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T09:57:51.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GenerateScriptWindow.cs",
+              "DocumentMoniker": "D:\\Unity_Project\\Rubik_UIFrame\\Assets\\_Packages\\UIFrame\\Editor\\GenerateScriptWindow.cs",
+              "RelativeDocumentMoniker": "Assets\\_Packages\\UIFrame\\Editor\\GenerateScriptWindow.cs",
+              "ToolTip": "D:\\Unity_Project\\Rubik_UIFrame\\Assets\\_Packages\\UIFrame\\Editor\\GenerateScriptWindow.cs",
+              "RelativeToolTip": "Assets\\_Packages\\UIFrame\\Editor\\GenerateScriptWindow.cs",
+              "ViewState": "AgIAAHQCAAAAAAAAAAAQwJQCAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T07:51:26.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ToolsUIExtend.cs",
+              "DocumentMoniker": "D:\\Unity_Project\\Rubik_UIFrame\\Assets\\_Packages\\UIFrame\\Editor\\ToolsUIExtend.cs",
+              "RelativeDocumentMoniker": "Assets\\_Packages\\UIFrame\\Editor\\ToolsUIExtend.cs",
+              "ToolTip": "D:\\Unity_Project\\Rubik_UIFrame\\Assets\\_Packages\\UIFrame\\Editor\\ToolsUIExtend.cs",
+              "RelativeToolTip": "Assets\\_Packages\\UIFrame\\Editor\\ToolsUIExtend.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T07:51:54.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ComponentExtensions.cs",
+              "DocumentMoniker": "D:\\Unity_Project\\Rubik_UIFrame\\Assets\\_Packages\\UIFrame\\Editor\\ComponentExtensions.cs",
+              "RelativeDocumentMoniker": "Assets\\_Packages\\UIFrame\\Editor\\ComponentExtensions.cs",
+              "ToolTip": "D:\\Unity_Project\\Rubik_UIFrame\\Assets\\_Packages\\UIFrame\\Editor\\ComponentExtensions.cs",
+              "RelativeToolTip": "Assets\\_Packages\\UIFrame\\Editor\\ComponentExtensions.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAwBEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T07:44:54.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CodeConfig.cs",
+              "DocumentMoniker": "D:\\Unity_Project\\Rubik_UIFrame\\Assets\\_Packages\\UIFrame\\Editor\\CodeConfig.cs",
+              "RelativeDocumentMoniker": "Assets\\_Packages\\UIFrame\\Editor\\CodeConfig.cs",
+              "ToolTip": "D:\\Unity_Project\\Rubik_UIFrame\\Assets\\_Packages\\UIFrame\\Editor\\CodeConfig.cs",
+              "RelativeToolTip": "Assets\\_Packages\\UIFrame\\Editor\\CodeConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T07:42:52.466Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

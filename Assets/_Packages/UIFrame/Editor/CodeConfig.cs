@@ -26,7 +26,13 @@ namespace UIFrame.Editor
             {"Dropdown", "int"},
         };
 
+        /// <summary>
+        /// 代码作用域开始
+        /// </summary>
         public const string regionStartFmt = "\n\t#region {0} \n";
+        /// <summary>
+        /// 代码作用域结束
+        /// </summary>
         public const string regionEnd = "\t#endregion \n";
 
         public static string statementRegion = string.Format(regionStartFmt, "UI Variable Statement");
@@ -61,5 +67,38 @@ namespace UIFrame.Editor
         public const string MonoOverride = "\tpublic virtual void Init()\n\t{{\n\t\tAddEvent();\n\t}}\n\n";
 
         public const string methodAnnotation = "\n\t/// <summary>\n\t/// {0}\n\t/// </summary>\n";
+
+#region 控件查找赋值格式
+        public const string assignCodeFmt = "transform.Find(\"{0}\").GetComponent<{1}>()";
+
+        public const string assignGameObjectCodeFmt = "transform.Find(\"{0}\").gameObject";
+
+        //根物体上挂载的控件
+        public const string assignRootCodeFmt = "transform.GetComponent<{0}>()";
+        #endregion
+
+#region 序列化初始化代码格式
+
+        //控件遍历声明,0:类型 1:名称
+        public const string serilStateCodeFmt = "\n\tprivate {0} {1};\n" +
+                                                "\tpublic {0} {2}\n" +
+                                                "\t{{\n" +
+                                                "\t\tget\n" +
+                                                "\t\t{{\n" +
+                                                "\t\t\tif ({1} == null)\n" +
+                                                "\t\t\t{{\n\t\t\t\t{1} = {3};\n" +
+                                                "\t\t\t}}\n\t\t\treturn {1};\n" +
+                                                "\t\t}}\n" +
+                                                "\t}}\n\n";
+
+        public const string onClickSerilCode = "\t\t{0}.onClick.AddListener(On{1}Clicked); \n";
+        public const string onValueChangeSerilCode = "\n\t\t{0}.onValueChanged.AddListener(On{1}ValueChanged);";
+
+        public const string btnCallbackSerilCode = "\n\tprotected virtual void On{0}Clicked()\n\t{{\n\n" +
+                                                   "\t\tEventManager.TriggerEvent(\"On{1}{0}Clicked\");\n\t}}\n";
+        public const string eventCallbackSerilCode = "\n\tprotected virtual void On{0}ValueChanged({1} arg)\n\t{{\n\n" +
+                                                     "\t\tEventManager.TriggerEvent(\"On{2}{0}ValueChanged\",arg);\n\t}}\n";
+
+#endregion
     }
 }
