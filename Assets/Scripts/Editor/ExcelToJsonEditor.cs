@@ -343,7 +343,7 @@ public class ExcelToJsonEditor : EditorWindow
                 continue;
             }
 
-            for (int j = 1; j < sheet.Columns.Count; j++)
+            for (int j = 2; j < sheet.Columns.Count; j++)
             {
                 var typeValue = sheet.Rows[typeRow][j].ToString();
                 var paramValue = sheet.Columns[j].ToString();
