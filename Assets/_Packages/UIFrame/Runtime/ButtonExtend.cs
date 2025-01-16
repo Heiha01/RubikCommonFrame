@@ -1,8 +1,10 @@
 using System;
 using DG.Tweening;
+using Rubik_Tools.Vibrator;
 using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
+using UtilsModule;
 
 namespace Rubik_Tools
 {
@@ -59,27 +61,8 @@ namespace Rubik_Tools
                 _clickTweener.PlayBackwards();
             }
             _onPointerUp?.Invoke();
-            // Debug.Log("OnPointerUp");
 
         }
-
-        /*public override void OnPointerClick(PointerEventData eventData)
-        {
-            base.OnPointerClick(eventData);
-            Debug.Log("OnPointerClick");
-        }
-
-        public override void OnPointerEnter(PointerEventData eventData)
-        {
-            base.OnPointerEnter(eventData);
-            Debug.Log("OnPointerEnter");
-        }
-        
-        public override void OnPointerExit(PointerEventData eventData)
-        {
-            base.OnPointerExit(eventData);
-            Debug.Log("OnPointerExit");
-        }*/
 
         protected override void OnDestroy()
         {

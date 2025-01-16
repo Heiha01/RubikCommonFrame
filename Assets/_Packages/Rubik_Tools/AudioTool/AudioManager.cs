@@ -24,20 +24,15 @@ public class AudioManager : ManagerBase<AudioManager>
         _clipsCatch = new Dictionary<string, AudioClip>();
         _bgmSource = gameObject.AddComponent<AudioSource>();
         _sfxSource = gameObject.AddComponent<AudioSource>();
-        StartCoroutine(LoadAudioEnablePlayerPref());
+        LoadAudioEnablePlayerPref();
     }
 
 
 
 
 
-    private IEnumerator LoadAudioEnablePlayerPref()
+    private void LoadAudioEnablePlayerPref()
     {
-        while (!DataManager.LoadDataCompleted)
-        {
-            yield return null;
-        }
-
         _isBgmEnabled = PlayerPrefs.GetInt("IsBgmEnabled", 1) == 1;
         _isSfxEnabled = PlayerPrefs.GetInt("IsSfxEnabled", 1) == 1;
         _onBgmEnableChanged?.Invoke(_isBgmEnabled);

@@ -1,14 +1,13 @@
 ﻿using System;
 using DG.Tweening;
 using UnityEngine;
+using Rubik_Tools;
 
-namespace Tools.UI
+namespace Rubik_Tools.UIFrame
 {
     public class PanelBase : MonoBehaviour
     {
         [SerializeField] private float showDuration = 0.3f;
-        /*[SerializeField] private bool isAutoShow;
-        [SerializeField] private int orderInLayer = 1;*/
         private CanvasGroup _canvasGroup;
         private Canvas _canvas;
 
@@ -79,7 +78,7 @@ namespace Tools.UI
 
         public virtual void Init()
         {
-            if (!PCanvas.SafeIsUnityNull())
+            if (!PCanvas)
             {
                 PCanvas.renderMode = RenderMode.ScreenSpaceCamera;
                 PCanvas.worldCamera = GameConfigManager.Instance.UiCamera;
@@ -160,37 +159,5 @@ namespace Tools.UI
                 }
             }
         }
-
-        #region EditorMethod
-
-        [ButtonGroup("Group", GroupID = "1")]
-        [Button(ButtonSizes.Medium, Name = "Close")]
-        private void OnEditorClose()
-        {
-            if (Application.isPlaying)
-            {
-                Close();
-            }
-            else
-            {
-                PCanvas.enabled = false;
-            }
-        }
-
-        [ButtonGroup("Group", GroupID = "1")]
-        [Button(ButtonSizes.Medium, Name = "Open")]
-        private void OnEditorOpen()
-        {
-            if (Application.isPlaying)
-            {
-                Open();
-            }
-            else
-            {
-                PCanvas.enabled = true;
-            }
-        }
-
-        #endregion
     }
 }
