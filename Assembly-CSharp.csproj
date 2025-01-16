@@ -62,18 +62,24 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\RunTime\PoolManager\PoolObjBase.cs" />
+    <Compile Include="Assets\Scripts\RunTime\UIScripts\Book2_Sheet1.cs" />
+    <Compile Include="Assets\Scripts\RunTime\DataModule\GameExcleInfoCtr.cs" />
     <Compile Include="Assets\Scripts\RunTime\PoolManager\PoolManager.cs" />
+    <Compile Include="Assets\Scripts\RunTime\DataModule\GameExcleInfoBase.cs" />
     <Compile Include="Assets\_Packages\Rubik_Tools\UnityExtensionsTool.cs" />
     <Compile Include="Assets\Scripts\RunTime\AssetModule\AssetsManager.cs" />
+    <Compile Include="Assets\Scripts\GameLaunch.cs" />
     <Compile Include="Assets\Scripts\RunTime\UtilsModule\ManagerBase.cs" />
+    <Compile Include="Assets\Scripts\RunTime\UtilsModule\FilePathTool.cs" />
     <Compile Include="Assets\Scripts\RunTime\DataModule\PlayerResourceDataCtrl.cs" />
     <Compile Include="Assets\_Packages\UIFrame\Runtime\GameConfigManager.cs" />
     <Compile Include="Assets\_Packages\Rubik_Tools\AudioTool\AudioManager.cs" />
     <Compile Include="Assets\_Packages\Rubik_Tools\StringHelper.cs" />
-    <Compile Include="Assets\Scripts\RunTime\test.cs" />
     <Compile Include="Assets\_Packages\UIFrame\Runtime\PanelBase.cs" />
     <Compile Include="Assets\_Packages\Rubik_Tools\VibratorTool\VibratorManager.cs" />
+    <Compile Include="Assets\Scripts\RunTime\DataModule\LoadJsonAsync.cs" />
     <Compile Include="Assets\Scripts\RunTime\DataModule\GameNumBase.cs" />
+    <Compile Include="Assets\Scripts\RunTime\UIScripts\Book1_Sheet1.cs" />
     <Compile Include="Assets\_Packages\UIFrame\Runtime\UITweenerInterface.cs" />
     <Compile Include="Assets\Scripts\RunTime\DataModule\DataManager.cs" />
     <Compile Include="Assets\_Packages\UIFrame\Runtime\ButtonExtend.cs" />
@@ -547,12 +553,20 @@
       <HintPath>Assets\Plugins\Demigiant\DOTween\DOTween.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="ExcelDataReader.DataSet">
+      <HintPath>Assets\Plugins\ExcelDataReader.DataSet.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
       <HintPath>Library\PackageCache\com.unity.visualscripting@1.8.0\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="LitJson">
       <HintPath>Assets\Plugins\LitJson.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="ExcelDataReader">
+      <HintPath>Assets\Plugins\ExcelDataReader.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Newtonsoft.Json">

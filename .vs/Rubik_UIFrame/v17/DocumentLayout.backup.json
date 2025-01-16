@@ -3,20 +3,44 @@
   "WorkspaceRootPath": "D:\\Unity_Project\\Rubik_UIFrame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{88636D73-5141-86FF-85C0-4391594C603F}|Assembly-CSharp.csproj|d:\\unity_project\\rubik_uiframe\\assets\\scripts\\runtime\\datamodule\\datastoragebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88636D73-5141-86FF-85C0-4391594C603F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\runtime\\datamodule\\datastoragebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DA7769E7-E857-18BB-13B3-C2615401F311}|Assembly-CSharp-Editor.csproj|D:\\Unity_Project\\Rubik_UIFrame\\assets\\scripts\\editor\\exceltojsoneditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7769E7-E857-18BB-13B3-C2615401F311}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\scripts\\editor\\exceltojsoneditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88636D73-5141-86FF-85C0-4391594C603F}|Assembly-CSharp.csproj|d:\\unity_project\\rubik_uiframe\\assets\\scripts\\runtime\\assetmodule\\assetsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88636D73-5141-86FF-85C0-4391594C603F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\runtime\\assetmodule\\assetsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88636D73-5141-86FF-85C0-4391594C603F}|Assembly-CSharp.csproj|d:\\unity_project\\rubik_uiframe\\assets\\_packages\\rubik_tools\\audiotool\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88636D73-5141-86FF-85C0-4391594C603F}|Assembly-CSharp.csproj|solutionrelative:assets\\_packages\\rubik_tools\\audiotool\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88636D73-5141-86FF-85C0-4391594C603F}|Assembly-CSharp.csproj|d:\\unity_project\\rubik_uiframe\\assets\\scripts\\gamelaunch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88636D73-5141-86FF-85C0-4391594C603F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamelaunch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{88636D73-5141-86FF-85C0-4391594C603F}|Assembly-CSharp.csproj|D:\\Unity_Project\\Rubik_UIFrame\\assets\\scripts\\runtime\\datamodule\\playerresourcedatactrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88636D73-5141-86FF-85C0-4391594C603F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\runtime\\datamodule\\playerresourcedatactrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{88636D73-5141-86FF-85C0-4391594C603F}|Assembly-CSharp.csproj|D:\\Unity_Project\\Rubik_UIFrame\\assets\\scripts\\runtime\\datamodule\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88636D73-5141-86FF-85C0-4391594C603F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\runtime\\datamodule\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{88636D73-5141-86FF-85C0-4391594C603F}|Assembly-CSharp.csproj|D:\\Unity_Project\\Rubik_UIFrame\\assets\\scripts\\runtime\\datamodule\\gamenumbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88636D73-5141-86FF-85C0-4391594C603F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\runtime\\datamodule\\gamenumbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88636D73-5141-86FF-85C0-4391594C603F}|Assembly-CSharp.csproj|D:\\Unity_Project\\Rubik_UIFrame\\assets\\scripts\\runtime\\datamodule\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88636D73-5141-86FF-85C0-4391594C603F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\runtime\\datamodule\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88636D73-5141-86FF-85C0-4391594C603F}|Assembly-CSharp.csproj|D:\\Unity_Project\\Rubik_UIFrame\\assets\\scripts\\runtime\\datamodule\\datastoragebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88636D73-5141-86FF-85C0-4391594C603F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\runtime\\datamodule\\datastoragebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88636D73-5141-86FF-85C0-4391594C603F}|Assembly-CSharp.csproj|D:\\Unity_Project\\Rubik_UIFrame\\assets\\scripts\\runtime\\datamodule\\gameexcleinfoctr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88636D73-5141-86FF-85C0-4391594C603F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\runtime\\datamodule\\gameexcleinfoctr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88636D73-5141-86FF-85C0-4391594C603F}|Assembly-CSharp.csproj|D:\\Unity_Project\\Rubik_UIFrame\\assets\\scripts\\runtime\\datamodule\\loadjsonasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88636D73-5141-86FF-85C0-4391594C603F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\runtime\\datamodule\\loadjsonasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{88636D73-5141-86FF-85C0-4391594C603F}|Assembly-CSharp.csproj|D:\\Unity_Project\\Rubik_UIFrame\\assets\\scripts\\runtime\\poolmanager\\poolmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{88636D73-5141-86FF-85C0-4391594C603F}|Assembly-CSharp.csproj|D:\\Unity_Project\\Rubik_UIFrame\\assets\\scripts\\runtime\\poolmanager\\poolobjbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88636D73-5141-86FF-85C0-4391594C603F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\runtime\\poolmanager\\poolobjbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88636D73-5141-86FF-85C0-4391594C603F}|Assembly-CSharp.csproj|D:\\Unity_Project\\Rubik_UIFrame\\assets\\scripts\\runtime\\assetmodule\\assetsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88636D73-5141-86FF-85C0-4391594C603F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\runtime\\assetmodule\\assetsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{88636D73-5141-86FF-85C0-4391594C603F}|Assembly-CSharp.csproj|D:\\Unity_Project\\Rubik_UIFrame\\assets\\_packages\\uiframe\\runtime\\gameconfigmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,36 +62,99 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "D:\\Unity_Project\\Rubik_UIFrame\\Assets\\_Packages\\Rubik_Tools\\AudioTool\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_Packages\\Rubik_Tools\\AudioTool\\AudioManager.cs",
+              "ToolTip": "D:\\Unity_Project\\Rubik_UIFrame\\Assets\\_Packages\\Rubik_Tools\\AudioTool\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\_Packages\\Rubik_Tools\\AudioTool\\AudioManager.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAADgv3YAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T16:41:34.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameLaunch.cs",
+              "DocumentMoniker": "D:\\Unity_Project\\Rubik_UIFrame\\Assets\\Scripts\\GameLaunch.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameLaunch.cs",
+              "ToolTip": "D:\\Unity_Project\\Rubik_UIFrame\\Assets\\Scripts\\GameLaunch.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameLaunch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T16:24:42.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoadJsonAsync.cs",
+              "DocumentMoniker": "D:\\Unity_Project\\Rubik_UIFrame\\Assets\\Scripts\\RunTime\\DataModule\\LoadJsonAsync.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RunTime\\DataModule\\LoadJsonAsync.cs",
+              "ToolTip": "D:\\Unity_Project\\Rubik_UIFrame\\Assets\\Scripts\\RunTime\\DataModule\\LoadJsonAsync.cs [\u53EA\u8BFB]",
+              "RelativeToolTip": "Assets\\Scripts\\RunTime\\DataModule\\LoadJsonAsync.cs [\u53EA\u8BFB]",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T15:57:12.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameExcleInfoCtr.cs",
+              "DocumentMoniker": "D:\\Unity_Project\\Rubik_UIFrame\\Assets\\Scripts\\RunTime\\DataModule\\GameExcleInfoCtr.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RunTime\\DataModule\\GameExcleInfoCtr.cs",
+              "ToolTip": "D:\\Unity_Project\\Rubik_UIFrame\\Assets\\Scripts\\RunTime\\DataModule\\GameExcleInfoCtr.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RunTime\\DataModule\\GameExcleInfoCtr.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvw4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T15:52:54.44Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ExcelToJsonEditor.cs",
+              "DocumentMoniker": "D:\\Unity_Project\\Rubik_UIFrame\\Assets\\Scripts\\Editor\\ExcelToJsonEditor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Editor\\ExcelToJsonEditor.cs",
+              "ToolTip": "D:\\Unity_Project\\Rubik_UIFrame\\Assets\\Scripts\\Editor\\ExcelToJsonEditor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Editor\\ExcelToJsonEditor.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAhwG0AAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T15:08:52.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "DataStorageBase.cs",
               "DocumentMoniker": "D:\\Unity_Project\\Rubik_UIFrame\\Assets\\Scripts\\RunTime\\DataModule\\DataStorageBase.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\RunTime\\DataModule\\DataStorageBase.cs",
               "ToolTip": "D:\\Unity_Project\\Rubik_UIFrame\\Assets\\Scripts\\RunTime\\DataModule\\DataStorageBase.cs",
               "RelativeToolTip": "Assets\\Scripts\\RunTime\\DataModule\\DataStorageBase.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAIwEoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T15:39:49.352Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-04T15:39:49.352Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "PlayerResourceDataCtrl.cs",
               "DocumentMoniker": "D:\\Unity_Project\\Rubik_UIFrame\\Assets\\Scripts\\RunTime\\DataModule\\PlayerResourceDataCtrl.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\RunTime\\DataModule\\PlayerResourceDataCtrl.cs",
               "ToolTip": "D:\\Unity_Project\\Rubik_UIFrame\\Assets\\Scripts\\RunTime\\DataModule\\PlayerResourceDataCtrl.cs",
               "RelativeToolTip": "Assets\\Scripts\\RunTime\\DataModule\\PlayerResourceDataCtrl.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T13:30:45.657Z"
+              "WhenOpened": "2024-12-01T13:30:45.657Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "GameNumBase.cs",
               "DocumentMoniker": "D:\\Unity_Project\\Rubik_UIFrame\\Assets\\Scripts\\RunTime\\DataModule\\GameNumBase.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\RunTime\\DataModule\\GameNumBase.cs",
@@ -83,19 +166,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "DataManager.cs",
               "DocumentMoniker": "D:\\Unity_Project\\Rubik_UIFrame\\Assets\\Scripts\\RunTime\\DataModule\\DataManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\RunTime\\DataModule\\DataManager.cs",
               "ToolTip": "D:\\Unity_Project\\Rubik_UIFrame\\Assets\\Scripts\\RunTime\\DataModule\\DataManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\RunTime\\DataModule\\DataManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T13:14:44.854Z"
+              "WhenOpened": "2024-12-01T13:14:44.854Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "PoolManager.cs",
               "DocumentMoniker": "D:\\Unity_Project\\Rubik_UIFrame\\Assets\\Scripts\\RunTime\\PoolManager\\PoolManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\RunTime\\PoolManager\\PoolManager.cs",
@@ -107,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "PoolObjBase.cs",
               "DocumentMoniker": "D:\\Unity_Project\\Rubik_UIFrame\\Assets\\Scripts\\RunTime\\PoolManager\\PoolObjBase.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\RunTime\\PoolManager\\PoolObjBase.cs",
@@ -119,19 +203,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "AssetsManager.cs",
               "DocumentMoniker": "D:\\Unity_Project\\Rubik_UIFrame\\Assets\\Scripts\\RunTime\\AssetModule\\AssetsManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\RunTime\\AssetModule\\AssetsManager.cs",
               "ToolTip": "D:\\Unity_Project\\Rubik_UIFrame\\Assets\\Scripts\\RunTime\\AssetModule\\AssetsManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\RunTime\\AssetModule\\AssetsManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAEwBYAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T12:14:38.613Z"
+              "WhenOpened": "2024-12-01T12:14:38.613Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "GameConfigManager.cs",
               "DocumentMoniker": "D:\\Unity_Project\\Rubik_UIFrame\\Assets\\_Packages\\UIFrame\\Runtime\\GameConfigManager.cs",
               "RelativeDocumentMoniker": "Assets\\_Packages\\UIFrame\\Runtime\\GameConfigManager.cs",

@@ -130,6 +130,8 @@
 -define:UNITY_EDITOR_ONLY_COMPILATION
 -r:"Assets/Plugins/Demigiant/DOTween/DOTween.dll"
 -r:"Assets/Plugins/Demigiant/DOTween/Editor/DOTweenEditor.dll"
+-r:"Assets/Plugins/ExcelDataReader.DataSet.dll"
+-r:"Assets/Plugins/ExcelDataReader.dll"
 -r:"Assets/Plugins/LitJson.dll"
 -r:"D:/Application_Work/UnityHub/Editor/2023.2.20f1/Editor/Data/Managed/UnityEditor.Graphs.dll"
 -r:"D:/Application_Work/UnityHub/Editor/2023.2.20f1/Editor/Data/Managed/UnityEngine/UnityEditor.AccessibilityModule.dll"
