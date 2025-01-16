@@ -1,12 +1,22 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.Numerics;
+using Unity.VisualScripting;
 using UnityEngine;
 
-public class PlayerResourceDataCtrl
+public class PlayerResourceDataCtrl:DataStorageBase
 {
-    public GameNumBase<BigInteger> coin;
     private PlayerResourceData _playerResourceData;
+    public PlayerResourceData PlayerResourceData=>_playerResourceData;
+
+    public override void Init()
+    {
+        _playerResourceData = ToLoad<PlayerResourceData>();
+        if (_playerResourceData.IsUnityNull())
+        {
+            _playerResourceData = new PlayerResourceData();
+        }
+    }
 
 }
 
@@ -16,4 +26,8 @@ public class PlayerResourceDataCtrl
 public class PlayerResourceData
 {
     public GameNumBase<BigInteger> coin;
+    public PlayerResourceData()
+    {
+        coin = new GameNumBase<BigInteger>(0);
+    }
 }
