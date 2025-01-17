@@ -23,7 +23,7 @@ public class ExcelToJsonEditor : EditorWindow
     private Object OutputPath_CS;
     private int addExcelNum =0;
 
-    [MenuItem("ZYB/Excel To JSON Converter")]
+    [MenuItem("Rubik/Excel To JSON Converter")]
     public static void ShowWindow()
     {
         GetWindow<ExcelToJsonEditor>("Excel To JSON Converter");
